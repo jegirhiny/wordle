@@ -12,9 +12,12 @@ Currently, the project may only be accessed and 'played' by downloading the zip 
 1. Download the [Wordle.zip](https://github.com/jegirhiny/wordle-repo/files/8325225/Wordle.zip) file
 2. Download the [JavaFX](https://gluonhq.com/products/javafx/) library
 3. Import the project into an editor
-  - File -> Project Stucture -> Libraries -> New Project Library `+` -> Java -> Select JavaFX `lib` Folder
-4. Update program arguments 
-5. Hit play, and you're up and running!
+4. Update project libraries
+- File ~ Project Stucture ~ Libraries ~ New Project Library (+) ~ Java ~ Select JavaFX lib Folder
+5. Update run configuration
+- Run ~ Edit Configurations ~ Application (Main) ~ Program Arguements
+- `--module-path "/path/to/javafx/lib" --add-modules javafx.controls,javafx.fxml`
+6. Hit play, and you're up and running!
 ## Contact
 Jake Girhiny - jegirhiny@gmail.com
 ## License
