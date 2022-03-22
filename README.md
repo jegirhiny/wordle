@@ -7,11 +7,12 @@ This idea turned into a passion project (like many others). I'm proud of myself 
 I have plans to continue working on this project and making improvements.
 ## Download
 
-Currently, the project may only be accessed and 'played' by downloading the zip file, opening it in an editor, and running the program yourself. The usage of Jar files is pretty outdated and was giving me a hard time. I spent countless hours trying to get this to work. Below is a step-by-step procedure o how to install and run the application.
+Currently, the project may only be accessed and 'played' by downloading the zip file, opening it in an editor, and running the program yourself. The usage of Jar files is pretty outdated and was giving me a hard time. I spent countless hours trying to get this to work. Below is a step-by-step procedure on how to install and run the application.
 
 1. Download the [Wordle.zip](https://github.com/jegirhiny/wordle-repo/files/8325225/Wordle.zip) file
-2. Import the project into an editor
-3. Hit play, and you're up and running!
+2. Download the [JavaFX Library](https://gluonhq.com/products/javafx/)
+3. Import the project into an editor
+4. Hit play, and you're up and running!
 ## Showcase
 ![Wordle Blank](https://user-images.githubusercontent.com/93138298/159413037-a28ce633-e5c4-4727-a198-3c3444394340.png)
 ![Wordle Answer](https://user-images.githubusercontent.com/93138298/159413056-a367ff93-a480-4517-92a9-323efda5d702.png)
