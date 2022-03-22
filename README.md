@@ -11,8 +11,8 @@ Currently, the project may only be accessed and 'played' by downloading the zip 
 
 #### IntelliJ IDEA
 
-1. Download the [Wordle.zip](https://github.com/jegirhiny/wordle-repo/files/8325225/Wordle.zip) file
-2. Download the [JavaFX](https://gluonhq.com/products/javafx/) library
+1. Download the [Wordle.zip](https://github.com/jegirhiny/wordle-repo/files/8327551/wordle.zip)
+2. Search for and download the [JavaFX](https://gluonhq.com/products/javafx/) library
 3. Extract contents from zip
 4. Import the project into IntelliJ
 5. Update project libraries
