@@ -6,9 +6,10 @@ This idea turned into a passion project (like many others). I'm proud of myself 
 
 I have plans to continue working on this project and making improvements.
 ## Download
+
 Currently, the project may only be accessed and 'played' by downloading the zip file, opening it in an editor, and running the program yourself. The usage of Jar files is pretty outdated and was giving me a hard time. I spent countless hours trying to get this to work. Below is a step-by-step procedure o how to install and run the application.
 
-1. Download the `Wordle.zip` file
+1. Download the [Wordle.zip](https://github.com/jegirhiny/wordle-repo/files/8325225/Wordle.zip) file
 2. Import the project into an editor
 3. Hit play, and you're up and running!
 ## Showcase
