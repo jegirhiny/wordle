@@ -13,7 +13,7 @@ I have plans to continue working on this project and making adjustments.
 ## Built With
 - [JavaFX](https://openjfx.io/)
 ## License
-Default [(learn more)](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+Default ([learn more](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository))
 - All rights reserved
 ## Contact
 Jake Girhiny - jegirhiny@gmail.com
