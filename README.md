@@ -4,7 +4,13 @@ I started this project with the focus of remaking the famous web-based game, Wor
 
 This idea turned into a passion project (like many others). I'm proud of myself for this small achievement, and I view GitHub as a way to archive my accomplishments and progress. Having produced this, with under a year of experience, my passion for creating has grown. I know this road will be long, but it's one worth following. 
 
-I have plans to continue working on this project and making adjustments.
+I have plans to continue working on this project and making improvements.
+## Download
+Currently, the project may only be accessed and 'played' by downloading the zip file, opening it in an editor, and running the program yourself. The usage of Jar files is pretty outdated and was giving me a hard time. I spent countless hours trying to get this to work. Below is a step-by-step procedure o how to install and run the application.
+
+1. Download the Wordle.zip file
+2. Import the project into an editor
+3. Hit play, and you're up and running!
 ## Showcase
 ![Wordle Blank](https://user-images.githubusercontent.com/93138298/159413037-a28ce633-e5c4-4727-a198-3c3444394340.png)
 ![Wordle Answer](https://user-images.githubusercontent.com/93138298/159413056-a367ff93-a480-4517-92a9-323efda5d702.png)
